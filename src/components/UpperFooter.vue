@@ -7,6 +7,14 @@ export default {
 }
 </script>
 
-<template></template>
+<template>
+    <section class="col-12">
 
-<style scoped></style>
+    </section>
+</template>
+
+<style scoped>
+section {
+    background-image: url(../assets/img/footer-bg.jpg)
+}
+</style>

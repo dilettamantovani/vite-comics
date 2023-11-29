@@ -16,8 +16,14 @@ export default {
 </script>
 
 <template>
-    <UpperFooter />
-    <LowerFooter />
+    <footer class="row">
+        <UpperFooter />
+        <LowerFooter />
+    </footer>
 </template>
 
-<style scoped></style>
+<style scoped>
+.row {
+    margin: 0 auto;
+}
+</style>

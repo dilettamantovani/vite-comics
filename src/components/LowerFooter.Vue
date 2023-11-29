@@ -7,6 +7,10 @@ export default {
 }
 </script>
 
-<template></template>
+<template>
+    <section class="col-12">
+
+    </section>
+</template>
 
 <style scoped></style>
