@@ -1,8 +1,12 @@
 <script>
-import UpperFooter from '.components/UpperFooter.vue'
-import LowerFooter from '.components/LowerFooter.vue'
+import UpperFooter from "./UpperFooter.vue"
+import LowerFooter from "./LowerFooter.vue"
 
 export default {
+    name: 'Footer',
+    data() {
+        return {};
+    },
     components: {
         UpperFooter,
         LowerFooter

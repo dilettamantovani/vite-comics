@@ -1,4 +1,11 @@
-<script></script>
+<script>
+export default {
+    name: 'UpperFooter',
+    data() {
+        return {}
+    }
+}
+</script>
 
 <template></template>
 

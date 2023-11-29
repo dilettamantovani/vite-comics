@@ -1,4 +1,11 @@
-<script></script>
+<script>
+export default {
+    name: 'Shop',
+    data() {
+        return {}
+    }
+}
+</script>
 
 <template></template>
 

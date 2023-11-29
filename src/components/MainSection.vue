@@ -1,8 +1,12 @@
 <script>
-import MainContent from '.components/MainContent.vue'
-import Shop from '.components/Shop.vue'
+import MainContent from './MainContent.vue'
+import Shop from './Shop.vue'
 
 export default {
+    name: 'MainSection',
+    data() {
+        return {};
+    },
     components: {
         MainContent,
         Shop
