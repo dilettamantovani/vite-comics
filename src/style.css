@@ -5,13 +5,19 @@
 }
 
 body {
-  height: 100vh;
-  background-color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #303030;
 }
 
 #app {
-  margin: auto;
-  background-color: black;
-  width: 50rem;
-  height: 100%;
+  height: 100vh;
+  width: 100vw;
+}
+
+.p-0 {
+  padding: 0
+}
+
+.m-0 {
+  margin: 0
 }
